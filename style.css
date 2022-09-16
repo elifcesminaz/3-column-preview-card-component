@@ -1,0 +1,70 @@
+.container{
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  height: 500px;
+}
+
+.col-lg-4{
+  padding-right: 50px;
+  padding-left: 50px;
+
+}
+
+.allBox{
+  width: 85%;
+}
+
+.firstbox{
+  background-color: hsl(31, 77%, 52%);
+  padding-left: 70px;
+  padding-right: 70px;
+  width: 25%;
+
+}
+
+.secondbox{
+  background-color: hsl(184, 100%, 22%);
+  padding-left: 70px;
+  padding-right: 70px;
+  width: 25%;
+}
+
+.thirdbox{
+  background-color: hsl(179, 100%, 13%);
+  padding-left: 70px;
+  padding-right: 70px;
+  width: 25%;
+}
+
+.carbutton{
+  padding: 30px;
+}
+
+#button{
+  margin-left: 40px;
+
+}
+
+.headings{
+  color: hsl(0, 0%, 95%);
+  font-family: 'Big Shoulders Display', cursive;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 0 40px 0 40px;
+}
+
+.myText{
+  color:hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  line-height: 2rem;
+  font-family: 'Lexend Deca', sans-serif;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  padding: 0 40px 0 40px;
+}
+
+.myHeadPage{
+  background-color: hsl(0, 0%, 95%);
+
+}
